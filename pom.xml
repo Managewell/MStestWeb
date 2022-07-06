@@ -71,7 +71,7 @@
         <jetty.port>9999</jetty.port>
         <jetty.version>9.3.4.RC0</jetty.version>
         <sl4j.version>1.7.22</sl4j.version>
-        <hazelcast.version>3.8</hazelcast.version>
+        <hazelcast.version>3.11</hazelcast.version>
         <camel.version>2.18.3</camel.version>
         <swagger.version>1.5.10</swagger.version>
         <jaxb.version>1.11.1</jaxb.version>
